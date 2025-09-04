@@ -12,7 +12,6 @@ This project simulates a mobile-notification system using an 8x1 multiplexer in 
 ## 📚 Concept Used
 --> Multiplexer – Digital Logic
 --> Case statements in Verilog
---> 3-bit selection logic (S2 S1 S0)
 --> Real-world mapping: App notifications
 
 ## 🚀 How It Works
